@@ -1,0 +1,39 @@
+.button {
+    width: 100px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    opacity: 1;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    white-space: normal;
+}
+
+.label {
+    -unity-text-align: upper-center;
+    margin-left: 0;
+    margin-top: 0;
+    align-items: flex-start;
+    width: 20%;
+    height: 40%;
+    bottom: 30%;
+}
+
+.sign {
+    position: absolute;
+    left: 72%;
+    width: 20%;
+    height: 40%;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
